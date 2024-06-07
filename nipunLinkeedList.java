@@ -1,4 +1,4 @@
-
+//Good description of Linked list by simple group definition
 public class nipunLinkeedList {
 	
 	class trh{
